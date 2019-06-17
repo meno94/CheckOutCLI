@@ -5,5 +5,5 @@ npm run start apple,orange,apple,orange,orange,avocado,apple,apple,apple
 
 
 Output:
-cart => apple,orange,apple,orange,orange,avocado,apple,apple,apple
+cart => apple,orange,apple,orange,orange,avocado,apple,apple,apple  
 price =>2.3
