@@ -1,7 +1,9 @@
 # CheckOutCLI
 CheckOut Command Line Interface
 Example:
-npm run start apple,orange,apple,orange,orange,avocado,apple,apple,apple,milen
+npm run start apple,orange,apple,orange,orange,avocado,apple,apple,apple
 
-##cart => apple,orange,apple,orange,orange,avocado,apple,apple,apple,milen
-##price =>2.3
+
+Output:
+cart => apple,orange,apple,orange,orange,avocado,apple,apple,apple
+price =>2.3
