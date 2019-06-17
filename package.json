@@ -1,0 +1,15 @@
+{
+  "name": "CheckOut",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/meno94/CheckOutCLI.git",
+  "author": "Milen Pishimarov",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js list"
+  },
+  "dependencies": {
+    "commander": "^2.20.0",
+    "inquirer": "^6.3.1"
+  }
+}
